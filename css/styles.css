@@ -114,3 +114,29 @@ a {
     font-size: 1.1rem;
   }
 }
+
+/* Block-Skewed-Left CSS */
+.hero--tagline {
+  font-size: 2rem;
+  color: var(--color-body);
+  letter-spacing: 1px;
+  margin-top: 2rem;
+  margin-bottom: 6rem;
+}
+
+.hero--image{
+  width: 550px;
+}
+
+.container{
+  background-color: #000;
+  clip-path: polygon(0 0, 100% 0, 100% 88%, 0% 100%);
+}
+
+.block--heading{
+  color: #fff;
+}
+
+/* .hero{
+  cli
+} */
